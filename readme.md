@@ -1,2 +1,2 @@
 ## Testing project
-Simple product (bear) list.
+Simple product (beer) list.
